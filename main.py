@@ -1,6 +1,6 @@
 import tkinter
 from tkinter import ttk
-from tkinter import *
+from tkinter import Entry
 
 
 ws = tkinter.Tk()
